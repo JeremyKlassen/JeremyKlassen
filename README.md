@@ -4,9 +4,9 @@ Hi! My name is Jeremy</h1>
 I have spent just shy of 20 years in youthwork and am now looking to combine my domain knowledge with my newly aquired tech skills.
 I am currently finishing up a degree in Applied Computer Science at the University of Winnipeg. 
 
-- 🔭 I’m currently working on [drive scheduler](https://github.com/Stopdotz/DriveScheduler)
+- 🔭 I’m currently working on [Portfolio Website](https://github.com/JeremyKlassen/PortfolioWebsite)
 
-- 🌱 I’m currently learning **PostgreSQL, and Express js**
+- 🌱 I’m currently learning **React, and Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Stopdotz](https://github.com/Stopdotz)
 
