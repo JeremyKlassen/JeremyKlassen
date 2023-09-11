@@ -6,7 +6,7 @@ I am currently finishing up a degree in Applied Computer Science at the Universi
 
 - 🔭 I’m currently working on [Portfolio Website](https://github.com/JeremyKlassen/PortfolioWebsite)
 
-- 🌱 I’m currently learning **React, and Django**
+- 🌱 I’m currently learning **Figma, and Next**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Stopdotz](https://github.com/Stopdotz)
 
