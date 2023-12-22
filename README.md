@@ -1,18 +1,18 @@
 <h1 align="center">
 Hi! My name is Jeremy</h1> 
 <h3 align="center">A generalist developer from Canada, with a lean towards data management/analysis.</h3> 
-I have spent just shy of 20 years in youthwork and am now looking to combine my domain knowledge with my newly aquired tech skills.
+I have spent just shy of 20 years in youthwork and am now looking to combine my domain knowledge with my newly acquired tech skills.
 I am currently finishing up a degree in Applied Computer Science at the University of Winnipeg. 
 
-- 🔭 I’m currently working on [Portfolio Website](https://github.com/JeremyKlassen/PortfolioWebsite)
+- 🔭 I’m currently working on [QuickDriveScheduler](https://github.com/JeremyKlassen/QuickDriveScheduler)
 
-- 🌱 I’m currently learning **Figma, and Next**
+- 🌱 I’m currently learning **PWA creation, and Vim motions**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Stopdotz](https://github.com/Stopdotz)
 
 - 💬 Ask me about **assisting community service professionals with data-driven decisions.**
 
-- 📫 How to reach me **jeremy.klassen@laklassen.com**
+- 📫 How to reach me **jeremy.klassen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
